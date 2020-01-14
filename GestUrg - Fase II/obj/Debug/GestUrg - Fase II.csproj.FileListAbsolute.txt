@@ -1,0 +1,12 @@
+C:\Users\f\Documents\Visual Studio 2017\Projects\GestUrg - Fase II\GestUrg - Fase II\bin\Debug\GestUrg - Fase II.exe.config
+C:\Users\f\Documents\Visual Studio 2017\Projects\GestUrg - Fase II\GestUrg - Fase II\bin\Debug\GestUrg - Fase II.exe
+C:\Users\f\Documents\Visual Studio 2017\Projects\GestUrg - Fase II\GestUrg - Fase II\bin\Debug\GestUrg - Fase II.pdb
+C:\Users\f\Documents\Visual Studio 2017\Projects\GestUrg - Fase II\GestUrg - Fase II\obj\Debug\GestUrg - Fase II.csprojResolveAssemblyReference.cache
+C:\Users\f\Documents\Visual Studio 2017\Projects\GestUrg - Fase II\GestUrg - Fase II\obj\Debug\GestUrg - Fase II.exe
+C:\Users\f\Documents\Visual Studio 2017\Projects\GestUrg - Fase II\GestUrg - Fase II\obj\Debug\GestUrg - Fase II.pdb
+C:\Users\f\Dropbox\Engenharia Informática\1º Ano\2º Semestre\Algoritmos e Estruturas de Dados\AED_2016-17\Projecto\GestUrg - Fase II\GestUrg - Fase II\bin\Debug\GestUrg - Fase II.exe.config
+C:\Users\f\Dropbox\Engenharia Informática\1º Ano\2º Semestre\Algoritmos e Estruturas de Dados\AED_2016-17\Projecto\GestUrg - Fase II\GestUrg - Fase II\bin\Debug\GestUrg - Fase II.exe
+C:\Users\f\Dropbox\Engenharia Informática\1º Ano\2º Semestre\Algoritmos e Estruturas de Dados\AED_2016-17\Projecto\GestUrg - Fase II\GestUrg - Fase II\bin\Debug\GestUrg - Fase II.pdb
+C:\Users\f\Dropbox\Engenharia Informática\1º Ano\2º Semestre\Algoritmos e Estruturas de Dados\AED_2016-17\Projecto\GestUrg - Fase II\GestUrg - Fase II\obj\Debug\GestUrg - Fase II.csprojAssemblyReference.cache
+C:\Users\f\Dropbox\Engenharia Informática\1º Ano\2º Semestre\Algoritmos e Estruturas de Dados\AED_2016-17\Projecto\GestUrg - Fase II\GestUrg - Fase II\obj\Debug\GestUrg - Fase II.exe
+C:\Users\f\Dropbox\Engenharia Informática\1º Ano\2º Semestre\Algoritmos e Estruturas de Dados\AED_2016-17\Projecto\GestUrg - Fase II\GestUrg - Fase II\obj\Debug\GestUrg - Fase II.pdb
